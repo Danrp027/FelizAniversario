@@ -11,7 +11,7 @@ button.addEventListener('click', () => {
   }
 });
 
-// Slideshow automático
+
 const slides = document.querySelectorAll('.slide');
 let currentSlide = 0;
 
